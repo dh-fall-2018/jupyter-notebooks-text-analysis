@@ -23,4 +23,5 @@
 - Splitting a large file into files by paragraph
 - Using the Pandas library
 - Using Levenshtein distance for fuzzy matching
+- Making a folder if it doesn't already exist
 - Markdown for readme.md files
