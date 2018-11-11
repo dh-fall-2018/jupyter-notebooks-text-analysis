@@ -1,4 +1,6 @@
-# jupyter-notebooks-text-analysis
+# Jupyter Notebooks Covering Text Analysis in Python
+
+## Topics to Cover
 
 - #### Navigating folder and file locations on your computer
 - #### Reading a folder of text files to a list
