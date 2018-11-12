@@ -25,3 +25,4 @@
 - Using Levenshtein distance for fuzzy matching
 - Making a folder if it doesn't already exist
 - Markdown for readme.md files
+- Spacy switching English dictionaries
