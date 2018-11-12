@@ -27,4 +27,4 @@
 - Markdown for readme.md files
 - Spacy switching English dictionaries
 - Opening a very big file with yield
-- (Noun and verb counts in wordnet)[https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Wordnet-synset-counts.ipynb]
+- [Noun and verb counts in wordnet](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Wordnet-synset-counts.ipynb)
