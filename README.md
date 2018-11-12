@@ -26,3 +26,4 @@
 - Making a folder if it doesn't already exist
 - Markdown for readme.md files
 - Spacy switching English dictionaries
+- opening a very big file with yield
