@@ -6,7 +6,7 @@
 - Reading a folder of text files to a list
 - Cleaning text files and re-saving new versions
 - Webscraping
-- Collocations
+- [Collocations](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Collocations-with-spacy-processing.ipynb)
 - Keyness
 - TF-IDF
 - Part-of-Speech Tagging
