@@ -2,10 +2,10 @@
 
 ## Topics to Cover
 
-- Navigating folder and file locations on your computer
-- Reading a folder of text files to a list
-- Cleaning text files and re-saving new versions
-- Webscraping
+1. Navigating folder and file locations on your computer
+2. Reading a folder of text files to a list
+3. Cleaning text files and re-saving new versions
+4. Webscraping
 - [Collocations](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Collocations-with-spacy-processing.ipynb)
 - Keyness
 - TF-IDF
