@@ -24,7 +24,7 @@
 20. Using the Pandas library
 21. Using Levenshtein distance for fuzzy matching
 22. Making a folder if it doesn't already exist
-23. Markdown for readme.md files
+23. [Markdown for readme.md files](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/markdown.ipynb)
 24. Spacy switching English dictionaries
 25. [Opening a very big file with yield](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Load-big.ipynb)
 26. [Noun and verb counts in wordnet](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Wordnet-synset-counts.ipynb)
