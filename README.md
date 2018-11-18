@@ -14,7 +14,7 @@
 10. Tokenization
 11. Lemmatization
 12. Getting fields from JSON data
-13. Converting xml to plaintext
+13. [Extract text from xml](https://github.com/dh-fall-2018/jupyter-notebooks-text-analysis/blob/master/Extract-Text-from-XML.ipynb)
 14. Calculating cosine similarities
 15. Topic models in Python
 16. Working with Chinese text 
